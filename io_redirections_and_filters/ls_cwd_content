@@ -1,0 +1,17 @@
+total 4
+drwxr-xr-x 1 yoryo904 yoryo904 512 Aug  2 02:50 .
+drwxr-xr-x 1 yoryo904 yoryo904 512 Aug  1 12:17 ..
+-rwxr--r-- 1 yoryo904 yoryo904  32 Aug  2 02:28 0-hello_world
+-rwxr--r-- 1 yoryo904 yoryo904  28 Aug  2 02:30 1-confused_smiley
+-rwxr--r-- 1 yoryo904 yoryo904  28 Aug  2 02:30 2-hellofile
+-rwxr--r-- 1 yoryo904 yoryo904  40 Aug  2 02:31 3-twofiles
+-rwxr--r-- 1 yoryo904 yoryo904  29 Aug  2 02:32 4-lastlines
+-rwxr--r-- 1 yoryo904 yoryo904  29 Aug  2 02:33 5-firstlines
+-rwxr--r-- 1 yoryo904 yoryo904  32 Aug  2 02:36 6-third_line
+-rwxr--r-- 1 yoryo904 yoryo904  74 Aug  2 02:38 7-file
+-rwxr--r-- 1 yoryo904 yoryo904  36 Aug  2 02:40 8-cwd_state
+-rwxr--r-- 1 yoryo904 yoryo904  37 Aug  2 02:50 9-duplicate_last_line
+drwxr-xr-x 1 yoryo904 yoryo904 512 Aug  2 02:22 dir.js
+drwxr-xr-x 1 yoryo904 yoryo904 512 Aug  2 02:21 dir0.js
+-rw-r--r-- 1 yoryo904 yoryo904 857 Aug  2 02:50 iacta
+-rw-r--r-- 1 yoryo904 yoryo904   0 Aug  2 02:50 ls_cwd_content
